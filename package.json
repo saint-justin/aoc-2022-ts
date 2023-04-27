@@ -1,0 +1,22 @@
+{
+  "name": "aoc_2022_ts",
+  "version": "1.0.0",
+  "description": "Advent of Code 2022 Solutions (in TypeScript)",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saint-justin/aoc-2022-ts.git"
+  },
+  "author": "Justin Vaughn",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/saint-justin/aoc-2022-ts/issues"
+  },
+  "homepage": "https://github.com/saint-justin/aoc-2022-ts#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
