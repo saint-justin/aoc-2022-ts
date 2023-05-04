@@ -8,8 +8,8 @@ This is a collective of solutions to the [Advent of Code 2022 problemset](https:
 |  2  | Done   | Done   |
 |  3  | Done   | Done   |
 |  4  | Done   | Done   |
-|  5  |        |        |
-|  6  |        |        |
+|  5  | Done   | Done   |
+|  6  | Done   | Done   |
 |  7  |        |        |
 |  8  |        |        |
 |  9  |        |        |
